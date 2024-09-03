@@ -5,8 +5,12 @@
         <item>com.ubercab.driver</item>
         <item>com.logistics.rider.foodpanda</item>
         <item>com.lalamove.global.driver.sea</item>
+        <item>com.mds.servicejdc.app</item>
+        <item>com.scs.scscloud</item>
+        <item>com.skywind.wing</item>
         <item>com.nianticlabs.pokemongo</item>
         <item>com.nianticlabs.pokemongo.ares</item>
         <item>com.nianticlabs.monsterhunter</item>
+        <item>com.nianticlabs.pikmin</item>
     </string-array>
 </resources>
