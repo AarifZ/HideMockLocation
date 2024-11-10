@@ -8,9 +8,11 @@
         <item>com.mds.servicejdc.app</item>
         <item>com.scs.scscloud</item>
         <item>com.skywind.wing</item>
+        <item>com.nianticproject.ingress</item>
         <item>com.nianticlabs.pokemongo</item>
         <item>com.nianticlabs.pokemongo.ares</item>
         <item>com.nianticlabs.monsterhunter</item>
         <item>com.nianticlabs.pikmin</item>
+        <item>com.theappninjas.fakegpsjoystick</item>
     </string-array>
 </resources>
